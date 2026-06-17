@@ -1,12 +1,12 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Yuanhao%20Zhong&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=AI4Data%20%C2%B7%20AI%20Agents%20%C2%B7%20Multimodal%20LLMs&descAlignY=62&descSize=17" />
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=600&lines=AI4Data+Researcher+%7C+AI+Agent+Builder;Multimodal+LLM+Explorer;Data-Driven+%C2%B7+Agent-Powered+%C2%B7+Vision-Aware;Building+Agents+that+Think+%26+Act)](https://git.io/typing-svg)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=semorai2miku&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=&descAlignY=62&descSize=17" />
 
   <p align="center">
     <a href="https://github.com/semorai2miku"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
     <a href="mailto:2503691917@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://space.bilibili.com/1497758558"><img src="https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"/>
+    </a>
     <img src="https://komarev.com/ghpvc/?username=semorai2miku&style=for-the-badge&color=7C3AED&label=VIEWS" alt="页面访问次数" />
     <img src="https://img.shields.io/github/stars/semorai2miku?affiliations=OWNER&style=for-the-badge&color=06B6D4&labelColor=0d1117" alt="星标" />
   </p>
@@ -49,9 +49,6 @@
 </picture>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=semorai2miku&theme=tokyonight" width="100%" />
-
-<img src="https://raw.githubusercontent.com/semorai2miku/semorai2miku/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-</div>
 
 <p align="center">
   <i>Thanks for visiting — let's build something intelligent together.</i>
