@@ -13,7 +13,7 @@
 
 
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+  <img src="./assets/Script Coding Sticker by fourplex GmbH.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
   Skills & Tools
 </h2>
 
@@ -22,9 +22,9 @@
 </div>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+  <img src="./assets/gif.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
   Contributions
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+  <img src="./assets/gif.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
 </h2>
 
 <div align="center">
