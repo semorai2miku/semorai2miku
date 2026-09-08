@@ -18,7 +18,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,linux,matlab,html,css,js,ts,vue,git,vscode,github,docker,nginx,obsidian,&perline=9" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,c,python,java&perline=9" />
 </div>
 
 <h2 align="center">
